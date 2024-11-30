@@ -1,4 +1,4 @@
-# Flask Practice 🧪:
+# Flask Practice 🧪
 
 Welcome to the **Flask Practice** repository! This project is a collection of exercises and scripts to help learn and practice web development with the Flask framework in Python. Each file explores different aspects of Flask, from basic routing to integrating HTML with Python and using Jinja2 templates.
 
